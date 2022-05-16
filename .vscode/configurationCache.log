@@ -1,0 +1,1 @@
+{"buildTargets":["FORCE","bin/integration.test","clean","help","integration","make","test"],"launchTargets":[],"customConfigurationProvider":{"workspaceBrowse":{"browsePath":[],"compilerArgs":[]},"fileIndex":[]}}
